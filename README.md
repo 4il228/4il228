@@ -58,18 +58,9 @@ Full-stack developer focused on **audio processing**, **browser extensions**, **
 | [VoiceAnalyzer](https://github.com/4il228/VoiceAnalyzer) | Vocal range analyzer with real-time pitch detection | React, TypeScript, Vite, Web Audio API, Recharts |
 | [algo-tracker](https://github.com/4il228/algo-tracker) | Chrome extension + Telegram bot for monitoring lesson attendance | Flask, pyTelegramBotAPI, Chrome Extension |
 
----
-
-### GitHub Stats
-
-[![4il228's GitHub stats](https://github-readme-stats.vercel.app/api?username=4il228&show_icons=true&theme=dark&hide_border=true)](https://github.com/4il228)
-
----
-
-### Connect
+### Contacts
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ivanlieto)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/4il228)
 
 ---
 
