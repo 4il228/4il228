@@ -1,7 +1,5 @@
 ## Hi there, I'm 4il228 👋
 
----
-
 ### Tech Stack
 
 **Languages**
@@ -44,15 +42,11 @@
 [![Playwright](https://img.shields.io/badge/-Playwright-45BA4B?style=flat-square&logo=playwright&logoColor=white)](https://playwright.dev)
 [![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)](https://jestjs.io)
 
----
-
 ### Vibecoding
 
 - **Декомпозиция задач:** Формализую масштабные задачи в структурированную техническую спецификацию (SPEC.md) с чётким описанием требований и ограничений
 - **Планирование реализации:** Фиксирую пошаговые треки разработки и текущий статус в планах реализации (PLAN.md)
 - **Управление ИИ-агентами:** Регламентирую роли, контекст и инструкции для ИИ-ассистентов в рамках специализированных конфигураций (AGENTS.md)
-
----
 
 ### Contacts
 
