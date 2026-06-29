@@ -48,6 +48,12 @@ Full-stack developer focused on **web projects**, **audio processing**, **browse
 
 ---
 
+### Vibecoding
+
+**Системное проектирование и управление агентами:** Успешно декомпозирую масштабные задачи с помощью технической спецификации (SPEC.md), фиксирую пошаговые треки разработки в планах реализации (PLAN.md), а также регламентирую роли, контекст и инструкции для ИИ-ассистентов в рамках специализированных конфигураций (AGENTS.md).
+
+---
+
 ### Contacts
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ivanlieto)
