@@ -48,16 +48,6 @@ Full-stack developer focused on **web projects**, **audio processing**, **browse
 
 ---
 
-### Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [AeroBeat](https://github.com/4il228/AeroBeat) | Browser-based rhythm game with automatic beatmap generation from audio | Express.js, SQLite, Web Audio API, Tailwind CSS |
-| [GeminiDex](https://github.com/4il228/GeminiDex) | Chrome extension for AI-powered page analysis via Google Gemini | Chrome MV3, Gemini API, SSE, Express.js |
-| [DJ-library-Sosage](https://github.com/4il228/DJ-library-Sosage) | Cross-platform desktop app for backing up DJ music libraries to Google Drive | Electron, Google Drive API, OAuth 2.0 + PKCE |
-| [VoiceAnalyzer](https://github.com/4il228/VoiceAnalyzer) | Vocal range analyzer with real-time pitch detection | React, TypeScript, Vite, Web Audio API, Recharts |
-| [algo-tracker](https://github.com/4il228/algo-tracker) | Chrome extension + Telegram bot for monitoring lesson attendance | Flask, pyTelegramBotAPI, Chrome Extension |
-
 ### Contacts
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ivanlieto)
