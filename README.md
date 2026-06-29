@@ -60,6 +60,3 @@ Full-stack developer focused on **web projects**, **audio processing**, **browse
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ivanlieto)
 
----
-
-*Profile README generated from public repositories analysis — Jun 2026*
