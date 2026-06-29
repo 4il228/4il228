@@ -1,7 +1,5 @@
 ## Hi there, I'm 4il228 👋
 
-Full-stack developer focused on **web projects**, **audio processing**, **browser extensions**, **desktop applications** and **AI integration**.
-
 ---
 
 ### Tech Stack
