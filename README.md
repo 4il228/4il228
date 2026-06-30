@@ -40,7 +40,6 @@
 
 **Tools**
 
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
 [![Playwright](https://img.shields.io/badge/-Playwright-45BA4B?style=flat-square&logo=playwright&logoColor=white)](https://playwright.dev)
 [![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)](https://jestjs.io)
