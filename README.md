@@ -15,11 +15,11 @@
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
 [![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vite.dev)
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
-[![Recharts](https://img.shields.io/badge/-Recharts-22B5BF?style=flat-square&logo=recharts&logoColor=white)](https://recharts.org)
 
 **Backend**
 
 [![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com)
+[![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
 [![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)](https://jwt.io)
 [![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://sqlite.org)
@@ -32,6 +32,9 @@
 **AI & APIs**
 
 [![Google Gemini](https://img.shields.io/badge/-Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)](https://ai.google.dev)
+[![Google Stitch](https://img.shields.io/badge/-Google_Stitch-4285F4?style=flat-square&logo=google&logoColor=white)](https://stitch.withgoogle.com)
+[![Opencode](https://img.shields.io/badge/-Opencode-FF6B35?style=flat-square&logo=opencode&logoColor=white)](https://opencode.ai)
+[![MiMo](https://img.shields.io/badge/-MiMo-FF4081?style=flat-square&logo=mimo&logoColor=white)](https://mimo.ai)
 [![Google Drive API](https://img.shields.io/badge/-Google_Drive_API-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://developers.google.com/drive)
 [![Web Audio API](https://img.shields.io/badge/-Web_Audio_API-FF6F00?style=flat-square&logo=webaudioapi&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
 
